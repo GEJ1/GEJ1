@@ -1,6 +1,5 @@
 
-<span style="color:red"> 📞 **Reach me @**</span>
-
+<b align="left">📞 Reach me @</b><br>
 <a href="https://twitter.com/GJuantorena">
   <img align="left" alt="GEJ1's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
