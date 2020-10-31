@@ -6,8 +6,8 @@
 <a href="https://www.linkedin.com/in/gustavo-juantorena-1674b2a4/">
   <img align="left" alt="GEJ1's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/GEJ1">
-  <img align="left" alt="GEJ1's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://medium.com/@gjuantorena">
+  <img align="left" alt="GEJ1's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/medium.svg" />
 </a> <br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GEJ1&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
