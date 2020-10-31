@@ -1,11 +1,11 @@
 
 <b>📞 Reach me @</b><br><br>
-<a href="https://twitter.com/GJuantorena">
-  <img align="left" alt="GEJ1's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/gustavo-juantorena-1674b2a4/">
   <img align="left" alt="GEJ1's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://twitter.com/GJuantorena">
+  <img align="left" alt="GEJ1's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a> 
 <a href="https://medium.com/@gjuantorena">
   <img align="left" alt="GEJ1's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/medium.svg" />
 </a> <br>
