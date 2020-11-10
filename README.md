@@ -1,4 +1,4 @@
-### 📞 Reach me @ <br><br>
+## 📞 Reach me @ <br><br>
 <a href="https://www.linkedin.com/in/gustavo-juantorena-1674b2a4/" target="_blank">
   <img align="left" alt="GEJ1's Linkdein" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
