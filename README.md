@@ -1,16 +1,18 @@
 
 <b>📞 Reach me @</b><br><br>
 <a href="https://www.linkedin.com/in/gustavo-juantorena-1674b2a4/" target="_blank">
-  <img align="left" alt="GEJ1's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="GEJ1's Linkdein" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/GJuantorena" target="_blank">
-  <img align="left" alt="GEJ1's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="GEJ1's Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
 <a href="https://medium.com/@gjuantorena" target="_blank">
-  <img align="left" alt="GEJ1's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/medium.svg" />
-</a> <br>
+  <img align="left" alt="GEJ1's medium" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/medium.svg" />
+</a> <br><br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GEJ1&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+<br><br>
 
 <!--
 **GEJ1/GEJ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
