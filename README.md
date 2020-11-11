@@ -7,7 +7,7 @@
 </a> 
 <a href="https://medium.com/@gjuantorena" target="_blank">
   <img align="center" alt="GEJ1's medium" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/medium.svg" />
-</a> <br><br>
+</a> <br><br><br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GEJ1&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
