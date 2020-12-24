@@ -1,4 +1,4 @@
-
+<center>
 <a href="https://www.linkedin.com/in/gustavo-juantorena-1674b2a4/" target="_blank">
   <img align="center" alt="GEJ1's Linkdein" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -10,7 +10,7 @@
 </a> <br><br><br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GEJ1&)](https://github.com/anuraghazra/github-readme-stats)
-
+</center>
 
 
 <br><br>
