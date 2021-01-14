@@ -1,4 +1,4 @@
-⚡ **My name is Gustavo Juantorena and I´m a Computer Science Phd student in the [Laboratory of Applied Artificial Intelligence](http://liaa.dc.uba.ar/) working on high precision hand and eye movements during neuropsychological tests resolution. The work is framed in the field of Computational Psychiatry.
+⚡ **My name is Gustavo Juantorena and I´m a Computer Science Phd student in the [Laboratory of Applied Artificial Intelligence](http://liaa.dc.uba.ar/) working on high precision hand and eye movements during neuropsychological tests resolution. The work is framed in the field of Computational Psychiatry.**
 
 ⚡ **I'm also really interested in Machine Learning and online experiments.**
 <br><br>
