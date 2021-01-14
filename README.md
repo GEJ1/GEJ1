@@ -18,6 +18,7 @@
   <img align="center" alt="GEJ1's medium" width="65px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/medium.svg" />
 </a>
 </p>
+
 &nbsp;
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GEJ1&)](https://github.com/anuraghazra/github-readme-stats)
