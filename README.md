@@ -3,7 +3,7 @@
 ⚡ **My name is Gustavo Juantorena and I am a Computer Science PhD student in the [Laboratory of Applied Artificial Intelligence](http://liaa.dc.uba.ar/), working on high precision hand and eye movements characterization during neuropsychological tests resolution. The work is framed in the field of Computational Psychiatry.**
 
 ⚡ **I am also really interested in Data Science, Machine Learning and Neuro/Psych online experiments.**
-<br><br><br>
+&nbsp;
 
 </p>
 <p align="center">
@@ -17,7 +17,7 @@
   <img align="center" alt="GEJ1's medium" width="65px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/medium.svg" />
 </a>
 </p>
-<br><br>
+&nbsp;
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GEJ1&)](https://github.com/anuraghazra/github-readme-stats)
 </center>
