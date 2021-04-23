@@ -1,8 +1,8 @@
 <p align="center">
 
- <h2 align="center">
- :cyclone: Hi! I'm Gustavo Juantorena :cyclone:
- <h2>
+ <h1 align="center">
+ :cyclone: Hi!I'm Gustavo Juantorena :cyclone:
+ <h1>
 
 ⚡ **I have a Biology/Neuroscience degree. Now I'm pursuing a Computer Science PhD at the [Laboratory of Applied Artificial Intelligence](http://liaa.dc.uba.ar/), working on Computational Psychiatry: high precision hand and eye movements characterization during neuropsychological tests resolution.**
 
