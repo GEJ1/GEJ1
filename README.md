@@ -9,7 +9,7 @@
  :earth_americas: **I am also really interested in Data Science, Machine Learning and Neuro/Psych online experiments.**
 
 </p>
- <h2  align="center">Connect with me:<h2>
+ <h2  align="center">:arrow_down: Connect with me :arrow_down: <h2>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/gustavo-juantorena-1674b2a4/" target="_blank">
