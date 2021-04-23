@@ -8,8 +8,6 @@
 
  :earth_americas: **I am also really interested in Data Science, Machine Learning and Neuro/Psych online experiments.**
 
-&nbsp;
-
 </p>
  <h2  align="center">Connect with me:<h2>
 <p align="center">
