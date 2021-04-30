@@ -31,6 +31,13 @@
 
 </center>
 
+<h2> ✍️ Blog posts </h2>
+
+* [The not-so-short tutorial for study ERPs (using EEGLAB custom scripting in MATLAB)](https://gjuantorena.medium.com/the-not-so-short-tutorial-for-study-erps-using-eeglab-custom-scripting-in-matlab-7d6800ec62ef)
+* [Cómo programar fácilmente experimentos comportamentales online utilizando jsPysch](https://gjuantorena.medium.com/como-programar-f%C3%A1cilmente-experimentos-comportamentales-online-utilizando-jspysch-2a9d5c8c3b5)
+* [Cómo subir experimentos comportamentales a la web fácil y gratis con jsPsych y Cognition.run](https://gjuantorena.medium.com/como-subir-experimentos-comportamentales-a-la-web-f%C3%A1cil-y-gratis-con-jspsych-y-cognition-run-c8631a3fccb7)
+* [Como empezar a analizar datos con Python usando Google Colab](https://gjuantorena.medium.com/como-empezar-a-analizar-datos-con-python-usando-google-colab-1e3cf68cba)
+
 
 
 
