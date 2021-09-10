@@ -1,7 +1,11 @@
 <p align="center">
 
 ```Python
-print("Hello world!")
+def Greetings(user):
+ print(f"Hello {user}!")
+
+Greetings()
+ 
 ```
 
 ⚡ **I'm Gustavo a Biology/Neuroscience graduate now pursuing a Computer Science PhD at the [Laboratory of Applied Artificial Intelligence](http://liaa.dc.uba.ar/), working on Computational Psychiatry: high precision hand and eye movements characterization during neuropsychological tests resolution.**
