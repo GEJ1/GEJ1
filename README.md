@@ -1,7 +1,7 @@
 <p align="center">
 
  ```Python
-print(f"Hello world!")
+print("Hello world!")
  ```
 
 ⚡ **I'm Gustavo a Biology/Neuroscience graduate now pursuing a Computer Science PhD at the [Laboratory of Applied Artificial Intelligence](http://liaa.dc.uba.ar/), working on Computational Psychiatry: high precision hand and eye movements characterization during neuropsychological tests resolution.**
