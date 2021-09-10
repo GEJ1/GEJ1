@@ -4,7 +4,7 @@
 def Greetings(user):
  print(f"Hello {user}!")
 
-Greetings()
+Greetings(user)
  
 ```
 
