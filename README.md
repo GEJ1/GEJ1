@@ -1,6 +1,6 @@
 <p align="center">
 
-<h2 align="center"> <code> print("Hello world! 👨‍💻")</code></h2>
+<h2 align="center"> <a href="https://imgbb.com/"><img src="https://i.ibb.co/7Qk8CpB/hello-world.gif" alt="hello-world" border="0"></a></h2>
 
 
 ⚡ **I'm Gustavo a Biology/Neuroscience graduate now pursuing a Computer Science PhD at the [Laboratory of Applied Artificial Intelligence](http://liaa.dc.uba.ar/), working on Computational Psychiatry: high precision hand and eye movements characterization during neuropsychological tests resolution.**
