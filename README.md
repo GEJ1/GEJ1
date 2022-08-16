@@ -23,12 +23,22 @@
 
 </a>
 </p>
+<br>
+<p align="center">
+Soy muy activo compartiendo contenido sobre <b>Ciencia de datos</b> y <b>Machine Learning</b> en Linkedin.
+Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=gustavo-juantorena" target="_blank">te invito a seguirme :slightly_smiling_face:</a> 
+<br>
+
+<a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=gustavo-juantorena" target="_blank">
+ <img src="https://user-images.githubusercontent.com/8774034/184993356-fa97e71c-586f-46e5-a7e2-99e475b5fdbc.png">
+</a>
+
+</p>
 
 &nbsp;
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GEJ1&theme=dark&show_icons=true" alt="Gustavo Juantorena Github Stats"></img>
-</p>
 
 </center>
 
