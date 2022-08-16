@@ -24,7 +24,7 @@
 </a>
 </p>
 <br>
-<p align="center">
+<h3 align="center">
 Soy muy activo compartiendo contenido sobre <b>Ciencia de datos</b> y <b>Machine Learning</b> en Linkedin.
 Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=gustavo-juantorena" target="_blank">te invito a seguirme :slightly_smiling_face:</a> 
 <br>
@@ -33,7 +33,7 @@ Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discove
  <img src="https://user-images.githubusercontent.com/8774034/184993356-fa97e71c-586f-46e5-a7e2-99e475b5fdbc.png">
 </a>
 
-</p>
+</h3>
 
 &nbsp;
 
