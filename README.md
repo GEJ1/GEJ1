@@ -1,3 +1,4 @@
+<!--
 <p align="center">
 
 <h2 align="center"> <a href="https://imgbb.com/"><img src="https://i.ibb.co/7Qk8CpB/hello-world.gif" alt="hello-world" border="0"></a></h2>
@@ -18,7 +19,7 @@
 <a href="https://twitter.com/GJuantorena" target="_blank">
   <img align="center" alt="GEJ1's twitter" width="80px" src="https://img.icons8.com/carbon-copy/200/000000/twitter--v2.png"/>
 </a> 
-<a href="https://medium.com/@gjuantorena" target="_blank">
+<a href="https://medium.com/@gjuantorena" target="_blank"><!--
   <img align="center" alt="GEJ1's medium" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/medium.svg" />
 
 </a>
@@ -52,20 +53,4 @@ Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discove
 
 
 
-
-
-
-<!--
-**GEJ1/GEJ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
