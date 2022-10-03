@@ -3,7 +3,7 @@
 <h2 align="center"> <a href="https://imgbb.com/"><img src="https://i.ibb.co/7Qk8CpB/hello-world.gif" alt="hello-world" border="0"></a>
 
 ¿Querés ayudarme a recolectar datos para mi doctorado y entender mejor el cerebro?<br> 
-**Entrá a 🧠[neuropruebas.org](https://neuropruebas.org/)🧠**</h2>
+**Entrá a 🧠[neuropruebas.org](https://neuropruebas.org/)🧠  y completá los 4 juegos!**</h2>
 
 
 
