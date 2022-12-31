@@ -60,7 +60,7 @@ Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discove
 
 
 * **[Python automation (1:30 hours - Spanish)](https://youtu.be/IRGrqXHDMxM)**
-* **[]()**
+* **[Analysis and visualizations with Python for Neuroscience course (Spanish)](https://github.com/gastonbujia/curso-visualizacion-datos-SAN-2022)**
 
 
 <!--
