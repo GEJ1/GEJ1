@@ -26,7 +26,7 @@
 </a> 
 <a href="https://medium.com/@gjuantorena" target="_blank">
   <img align="center" alt="GEJ1's medium" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/medium.svg" />
-
+<!--
 </a>
 </p>
 <br>
@@ -38,6 +38,7 @@ Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discove
 <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=gustavo-juantorena" target="_blank">
  <img src="https://user-images.githubusercontent.com/8774034/184993356-fa97e71c-586f-46e5-a7e2-99e475b5fdbc.png">
 </a>
+-->
 
 </h3>
 
