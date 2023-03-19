@@ -8,14 +8,14 @@
 **Entrá a 🧠[neuropruebas.org](https://neuropruebas.org/)🧠  y completá los 4 juegos!**</h2>
 -->
 
+ 
 ⚡ **I'm Gustavo a Biology/Neuroscience graduate now pursuing a Computer Science PhD at the [Laboratory of Applied Artificial Intelligence](http://liaa.dc.uba.ar/), working on Computational Psychiatry: high precision hand and eye movements characterization during neuropsychological tests resolution.**
-
 
 
  :earth_americas: **I am also really interested in Data Science, Machine Learning and Neuro/Psych online experiments.**
 
 </p>
- <h2 align="center">Connect with me <h2>
+ <h2 align="center">Connect with me (gjuantorena at gmail dot com) <h2>
  
 <p align="center">
 
