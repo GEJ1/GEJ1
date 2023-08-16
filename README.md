@@ -58,11 +58,12 @@ Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discove
 * **[Como empezar a analizar datos con Python usando Google Colab](https://gjuantorena.medium.com/como-empezar-a-analizar-datos-con-python-usando-google-colab-1e3cf68cba)**
 * **[¿Por qué se ven así los DataFrames de Pandas en un Jupyter Notebook?](https://gjuantorena.medium.com/por-qu%C3%A9-se-ven-as%C3%AD-los-dataframes-de-pandas-en-un-jupyter-notebook-e411878a82f5)**
 
-<h2> Teaching 🎓 </h2>
+<h2> Teaching (Spanish) 🎓 </h2>
 
 
-* **[Python automation (1:30 hours - Spanish)](https://youtu.be/IRGrqXHDMxM)**
-* **[Analysis and visualizations with Python for Neuroscience course (Spanish)](https://github.com/gastonbujia/curso-visualizacion-datos-SAN-2022)**
+* **[Python automation](https://youtu.be/IRGrqXHDMxM)**
+* **[Analysis and visualizations with Python for Neuroscience course](https://github.com/gastonbujia/curso-visualizacion-datos-SAN-2022)**
+* **[Web Scraping with Python for freeCodecamp](https://github.com/GEJ1/web_scraping_freecodecamp)**
 
 
 <!--
