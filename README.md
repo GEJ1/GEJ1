@@ -74,7 +74,7 @@ Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discove
 <h2> Scientific contributions </h2>
 
 * **[Unveiling Trail Making Test: visual and manual trajectories indexing multiple executive processes (Nature Scientific Reports)](https://www.nature.com/articles/s41598-022-16431-9)**
-* **[Web-based eye-tracking for remote cognitive assessments: The anti-saccade task as a case study (BioArxiv)](https://www.biorxiv.org/content/10.1101/2023.07.11.548447v1.abstract)**
+* **[Web-based eye-tracking for remote cognitive assessments: The anti-saccade task as a case study (Biorxiv)](https://www.biorxiv.org/content/10.1101/2023.07.11.548447v1.abstract)**
 
 
 
