@@ -71,6 +71,12 @@ Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discove
 * **[¿Cómo Aprender Data Science? Entrevista a Gustavo Juantorena](https://youtu.be/EIJ-9gLuiX8?si=IxaqqwFMCpERJySA)**
 * **[Monitoreo de Alzheimer con Inteligencia Artificial (Gustavo Juantorena)](https://youtu.be/YEBiJxqIjdY?si=RRVyFhyhfMDI0b29)**
 
+<h2> Scientific contributions </h2>
+
+* **[Unveiling Trail Making Test: visual and manual trajectories indexing multiple executive processes (Nature Scientific Reports)](https://www.nature.com/articles/s41598-022-16431-9)**
+* **[Web-based eye-tracking for remote cognitive assessments: The anti-saccade task as a case study (BioArxiv)](https://www.biorxiv.org/content/10.1101/2023.07.11.548447v1.abstract)**
+
+
 
 <!--
 **GEJ1/GEJ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
