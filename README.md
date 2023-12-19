@@ -70,7 +70,7 @@ Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discove
 
 * **[¿Cómo Aprender Data Science? Entrevista a Gustavo Juantorena](https://youtu.be/EIJ-9gLuiX8?si=IxaqqwFMCpERJySA)**
 * **[Monitoreo de Alzheimer con Inteligencia Artificial (Gustavo Juantorena)](https://youtu.be/YEBiJxqIjdY?si=RRVyFhyhfMDI0b29)**
-* **[freeCodeCamp Podcast en Español. Ep. 22 Gustavo Juantorena: Explorando la ciencia de datos y la neurociencia]([https://youtu.be/YEBiJxqIjdY?si=RRVyFhyhfMDI0b29](https://open.spotify.com/episode/4ZoPRE20fqLFtdHYp2gjNA?si=8ecIs62dTEaGM4SbEvG7Xw))**   
+* **[freeCodeCamp Podcast en Español Episodio 22 Gustavo Juantorena: Explorando la ciencia de datos y la neurociencia](https://open.spotify.com/episode/4ZoPRE20fqLFtdHYp2gjNA?si=8ecIs62dTEaGM4SbEvG7Xw)**   
 
 <h2> Scientific contributions </h2>
 
