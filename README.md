@@ -9,7 +9,7 @@
 -->
 
  
-⚡ **I'm Gustavo a Biology/Neuroscience graduate now pursuing a Computer Science PhD at the [Laboratory of Applied Artificial Intelligence](http://liaa.dc.uba.ar/), working on Computational Psychiatry: high precision hand and eye movements characterization during neuropsychological tests resolution.**
+⚡ **I'm Gustavo a Neuroscientist now pursuing a Computer Science PhD at the [Laboratory of Applied Artificial Intelligence](http://liaa.dc.uba.ar/), working on Computational Psychiatry: high precision hand and eye movements characterization during neuropsychological tests resolution.**
 
 
  :earth_americas: **I am also really interested in Data Science, Machine Learning and Neuro/Psych online experiments.**
