@@ -76,7 +76,7 @@ Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discove
 
 * **[Unveiling Trail Making Test: visual and manual trajectories indexing multiple executive processes (Nature Scientific Reports)](https://www.nature.com/articles/s41598-022-16431-9)**
 * **[Web-based eye-tracking for remote cognitive assessments: The anti-saccade task as a case study (Biorxiv)](https://www.biorxiv.org/content/10.1101/2023.07.11.548447v1.abstract)**
-* **[Enhancing Cognitive Assessment: Integrating Hand and Eye Tracking in the Digital Trail-Making Test for Mild Cognitive Impairment (ETRA '24: Proceedings of the 2024 Symposium on Eye Tracking Research and Applications)]([https://www.biorxiv.org/content/10.1101/2023.07.11.548447v1.abstract](https://dl.acm.org/doi/10.1145/3649902.3655648))**
+* **[Enhancing Cognitive Assessment: Integrating Hand and Eye Tracking in the Digital Trail-Making Test for Mild Cognitive Impairment (ETRA '24: Proceedings of the 2024 Symposium on Eye Tracking Research and Applications)](https://dl.acm.org/doi/10.1145/3649902.3655648)**
 
 
 
