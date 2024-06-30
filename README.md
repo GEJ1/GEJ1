@@ -96,8 +96,8 @@ Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discove
       <a href="https://youtu.be/KP-okY7gt5c?si=cJidBelavtukwDCE" target="_blank">
         <img src="https://img.youtube.com/vi/KP-okY7gt5c/0.jpg" alt="De Neurociencia a Ciencia de Datos - Gustavo Juantorena" width="200">
       </a>
-      <p><b>De Neurociencia a Ciencia de Datos - </b></p>
-       <p><b>Gustavo Juantorena</b></p>
+      <p><b>De Neurociencia a Ciencia de Datos</b></p>
+      <p><b>Gustavo Juantorena</b></p>
     </td>
   </tr>
 </table>
