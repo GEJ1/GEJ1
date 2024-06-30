@@ -67,12 +67,41 @@ Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discove
 
 <h2> Media </h2>
 
-
-* **[¿Cómo Aprender Data Science? Entrevista a Gustavo Juantorena](https://youtu.be/EIJ-9gLuiX8?si=IxaqqwFMCpERJySA)**
-* **[Monitoreo de Alzheimer con Inteligencia Artificial (Gustavo Juantorena)](https://youtu.be/YEBiJxqIjdY?si=RRVyFhyhfMDI0b29)**
-* **[freeCodeCamp Podcast en Español Episodio 22 Gustavo Juantorena: Explorando la ciencia de datos y la neurociencia](https://open.spotify.com/episode/4ZoPRE20fqLFtdHYp2gjNA?si=8ecIs62dTEaGM4SbEvG7Xw)**
-* **[De Neurociencia a Ciencia de Datos - Gustavo Juantorena](https://youtu.be/KP-okY7gt5c?si=cJidBelavtukwDCE)**
-
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://youtu.be/EIJ-9gLuiX8?si=IxaqqwFMCpERJySA" target="_blank">
+        <img src="https://img.youtube.com/vi/EIJ-9gLuiX8/0.jpg" alt="¿Cómo Aprender Data Science? Entrevista a Gustavo Juantorena" width="200">
+      </a>
+      <p><b>¿Cómo Aprender Data Science?</b></p> 
+       <p><b>Entrevista a Gustavo Juantorena</b></p>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://youtu.be/YEBiJxqIjdY?si=RRVyFhyhfMDI0b29" target="_blank">
+        <img src="https://img.youtube.com/vi/YEBiJxqIjdY/0.jpg" alt="Monitoreo de Alzheimer con Inteligencia Artificial (Gustavo Juantorena)" width="200">
+      </a>
+      <p><b>Monitoreo de Alzheimer con Inteligencia Artificial</b></p>
+      <p><b>(Gustavo Juantorena)</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://youtu.be/KP-okY7gt5c?si=cJidBelavtukwDCE" target="_blank">
+        <img src="https://i.ytimg.com/vi/0LT4kr-GPBA/hqdefault.jpg" alt="freeCodeCamp Podcast en Español Episodio 22 Gustavo Juantorena: Explorando la ciencia de datos y la neurociencia" width="200">
+      </a>
+      <p><b>freeCodeCamp Podcast en Español </b></p>
+       <p><b>Episodio 22 Gustavo Juantorena:</b></p>
+      <p><b>Explorando la ciencia de datos y la neurociencia</b></p>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://youtu.be/KP-okY7gt5c?si=cJidBelavtukwDCE" target="_blank">
+        <img src="https://img.youtube.com/vi/KP-okY7gt5c/0.jpg" alt="De Neurociencia a Ciencia de Datos - Gustavo Juantorena" width="200">
+      </a>
+      <p><b>De Neurociencia a Ciencia de Datos - </b></p>
+       <p><b>Gustavo Juantorena</b></p>
+    </td>
+  </tr>
+</table>
 <h2> Scientific contributions </h2>
 
 * **[Unveiling Trail Making Test: visual and manual trajectories indexing multiple executive processes (Nature Scientific Reports)](https://www.nature.com/articles/s41598-022-16431-9)**
