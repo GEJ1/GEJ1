@@ -90,7 +90,7 @@ Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discove
   </tr>
   <tr>
     <td style="text-align: center;">
-      <a href="https://youtu.be/KP-okY7gt5c?si=cJidBelavtukwDCE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=0LT4kr-GPBA&t=224s&ab_channel=freeCodeCampEspa%C3%B1ol" target="_blank">
         <img src="https://i.ytimg.com/vi/0LT4kr-GPBA/hqdefault.jpg" alt="freeCodeCamp Podcast en Español Episodio 22 Gustavo Juantorena: Explorando la ciencia de datos y la neurociencia" width="200">
       </a>
       <p><b>freeCodeCamp Podcast en Español Episodio 22</b></p>
