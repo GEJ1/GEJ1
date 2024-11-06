@@ -68,7 +68,7 @@ Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discove
 * **[Python automation](https://youtu.be/IRGrqXHDMxM)**
 * **[Analysis and visualizations with Python for Neuroscience course](https://github.com/gastonbujia/curso-visualizacion-datos-SAN-2022)**
 * **[Web Scraping with Python for freeCodeCamp](https://github.com/GEJ1/web_scraping_freecodecamp)**
-
+ <!--
 <h2> Media </h2>
 
 <table style="width: 100%; table-layout: fixed;">
