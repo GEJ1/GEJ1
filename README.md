@@ -52,6 +52,7 @@ Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discove
 
 <h2> ✍️ Blog posts </h2>
 
+* **[🗜️ Listas (y otros tipos) por comprensión en Python](https://gustavojuantorena.substack.com/p/listas-y-otros-tipos-por-comprension?triedRedirect=true)**
 * **[Los ✨métodos mágicos✨ de Python (que de mágicos no tienen nada 😅)](https://gustavojuantorena.substack.com/p/los-metodos-magicos-de-python-que)**
 * **[The not-so-short tutorial for study ERPs (using EEGLAB custom scripting in MATLAB)](https://gjuantorena.medium.com/the-not-so-short-tutorial-for-study-erps-using-eeglab-custom-scripting-in-matlab-7d6800ec62ef)**
 * **[Cómo programar fácilmente experimentos comportamentales online utilizando jsPysch](https://gjuantorena.medium.com/como-programar-f%C3%A1cilmente-experimentos-comportamentales-online-utilizando-jspysch-2a9d5c8c3b5)**
