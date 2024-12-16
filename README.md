@@ -52,15 +52,88 @@ Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discove
 
 <h2> ✍️ Blog posts </h2>
 
-* **[🗜️ Listas (y otros tipos) por comprensión en Python](https://gustavojuantorena.substack.com/p/listas-y-otros-tipos-por-comprension?triedRedirect=true)**
-* **[Los ✨métodos mágicos✨ de Python (que de mágicos no tienen nada 😅)](https://gustavojuantorena.substack.com/p/los-metodos-magicos-de-python-que)**
-* **[The not-so-short tutorial for study ERPs (using EEGLAB custom scripting in MATLAB)](https://gjuantorena.medium.com/the-not-so-short-tutorial-for-study-erps-using-eeglab-custom-scripting-in-matlab-7d6800ec62ef)**
-* **[Cómo programar fácilmente experimentos comportamentales online utilizando jsPysch](https://gjuantorena.medium.com/como-programar-f%C3%A1cilmente-experimentos-comportamentales-online-utilizando-jspysch-2a9d5c8c3b5)**
-* **[Cómo subir experimentos comportamentales a la web fácil y gratis con jsPsych y Cognition.run](https://gjuantorena.medium.com/como-subir-experimentos-comportamentales-a-la-web-f%C3%A1cil-y-gratis-con-jspsych-y-cognition-run-c8631a3fccb7)**
-* **[Como empezar a analizar datos con Python usando Google Colab](https://gjuantorena.medium.com/como-empezar-a-analizar-datos-con-python-usando-google-colab-1e3cf68cba)**
-* **[¿Por qué se ven así los DataFrames de Pandas en un Jupyter Notebook?](https://gjuantorena.medium.com/por-qu%C3%A9-se-ven-as%C3%AD-los-dataframes-de-pandas-en-un-jupyter-notebook-e411878a82f5)**
-
-
+<table border="1" style="border-collapse: collapse; text-align: left;">
+  <tr>
+    <th>Artículo</th>
+    <th>Código</th>
+  </tr>
+  <tr>
+    <td>
+      🗜️ <a href="https://gustavojuantorena.substack.com/p/listas-y-otros-tipos-por-comprension" target="_blank">
+        Listas (y otros tipos) por comprensión en Python
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/GEJ1/substack/blob/main/comprension.ipynb" target="_blank">
+        <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://gustavojuantorena.substack.com/p/los-metodos-magicos-de-python-que" target="_blank">
+        Los ✨métodos mágicos✨ de Python (que de mágicos no tienen nada 😅)
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/GEJ1/substack/blob/main/Metodos_Magicos_Python.ipynb" target="_blank">
+        <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://gustavojuantorena.substack.com/p/args-y-kwargs-en-python" target="_blank">
+        *args y **kwargs en Python
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/GEJ1/substack/blob/main/args_kwargs.ipynb" target="_blank">
+        <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://gjuantorena.medium.com/the-not-so-short-tutorial-for-study-erps-using-eeglab-custom-scripting-in-matlab-7d6800ec62ef" target="_blank">
+        The not-so-short tutorial for study ERPs (using EEGLAB custom scripting in MATLAB)
+      </a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://gjuantorena.medium.com/como-programar-f%C3%A1cilmente-experimentos-comportamentales-online-utilizando-jspysch-2a9d5c8c3b5" target="_blank">
+        Cómo programar fácilmente experimentos comportamentales online utilizando jsPysch
+      </a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://gjuantorena.medium.com/como-subir-experimentos-comportamentales-a-la-web-f%C3%A1cil-y-gratis-con-jspsych-y-cognition-run-c8631a3fccb7" target="_blank">
+        Cómo subir experimentos comportamentales a la web fácil y gratis con jsPsych y Cognition.run
+      </a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://gjuantorena.medium.com/como-empezar-a-analizar-datos-con-python-usando-google-colab-1e3cf68cba" target="_blank">
+        Como empezar a analizar datos con Python usando Google Colab
+      </a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://gjuantorena.medium.com/por-qu%C3%A9-se-ven-as%C3%AD-los-dataframes-de-pandas-en-un-jupyter-notebook-e411878a82f5" target="_blank">
+        ¿Por qué se ven así los DataFrames de Pandas en un Jupyter Notebook?
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 
 <h2> Teaching 🎓 </h2>
