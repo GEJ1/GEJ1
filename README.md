@@ -57,6 +57,18 @@ Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discove
     <th>Artículo</th>
     <th>Código</th>
   </tr>
+ <tr>
+    <td>
+      <a href="https://gustavojuantorena.substack.com/p/construyendo-un-buscador-semantico" target="_blank">
+        Construyendo un Buscador Semántico para LinkedIn con Streamlit y Sentence Transformers
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/GEJ1/buscador-linkedin/" target="_blank">
+        <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40">
+      </a>
+    </td>
+  </tr>
   <tr>
     <td>
       🗜️ <a href="https://gustavojuantorena.substack.com/p/listas-y-otros-tipos-por-comprension" target="_blank">
