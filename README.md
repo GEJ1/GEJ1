@@ -7,7 +7,8 @@
  :earth_americas: **I am also really interested in Data Science, Machine Learning, Eye Tracking and Neuro/Psych online experiments.**
 
 
-### 🛠️ Co-creator and Lead Maintainer of the [pyxations](https://github.com/NeuroLIAA/pyxations) library
+🛠️ **Co-creator and Lead Maintainer of the [pyxations](https://github.com/NeuroLIAA/pyxations) library**
+
 </p>
  <h2 align="center">Connect with me (gjuantorena at gmail dot com) <h2>
  
