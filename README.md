@@ -41,7 +41,7 @@ Si te interesan estos temas <a href="https://linkedin.com/comm/mynetwork/discove
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-vercel-ochre.vercel.app/api?username=GEJ1&theme=dark&show_icons=true" alt="Gustavo Juantorena Github s"></img>
+  <img src="https://github-readme-stats-vercel-ochre.vercel.app/api?username=GEJ1&theme=dark&show_icons=true&include_all_commits=true" alt="Gustavo Juantorena GitHub stats"></img>
 
 </center>
 
